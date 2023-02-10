@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p a/new/hope
+echo -p a/new/hope
