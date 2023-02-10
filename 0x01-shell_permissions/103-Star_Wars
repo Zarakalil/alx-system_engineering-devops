@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -p a/new/hope
+telnet towel.blinkenlights.nl
